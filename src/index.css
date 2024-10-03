@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background:url("https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position:relative;
+  
+}
